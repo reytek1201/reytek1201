@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Ray 👋
 
-<!--
-**reytek1201/reytek1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack & mobile app developer. I design, build, and ship complete software — solo, end to end.
 
-Here are some ideas to get you started:
+**Two production SaaS platforms, built from scratch:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🍽️ **[KeyMacro.fit](https://app.keymacro.fit)** — AI-powered nutrition & training app
+React/TypeScript PWA + Capacitor (iOS/Android) · Supabase · OpenAI
+
+📱 **[SlidePress](https://www.slidepress.co)** — AI-powered social content platform
+Next.js · React · Supabase · Gemini · Fal.ai · ElevenLabs
+
+---
+
+Before software, I spent 30+ years running high-volume kitchens. That's where the discipline to actually finish what I start comes from.
+
+**Open to:** full-stack developer roles · freelance web & mobile projects
+
+🌐 [rayburgos.com](https://rayburgos.com) · 💼 [LinkedIn](https://www.linkedin.com/in/ray-burgos-328859420) · ✉️ keymacro.dev@gmail.com
